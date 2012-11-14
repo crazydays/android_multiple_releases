@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">A Free Example Application</string>
+    <string name="greeting">Free stuff is cool.</string>
+    <string name="doit">Whine</string>
+    
+</resources>

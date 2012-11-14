@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A Example Application</string>
+    <string name="greeting">Free stuff is overrated.</string>
+    <string name="doit">Gloat</string>
+</resources>

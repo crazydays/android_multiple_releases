@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">A Example Library</string>
+    <string name="greeting">Hello, Library!</string>
+    <string name="doit">DOIT</string>
+    <string name="gloat">Oh yeah, way cool.  Lets smoke a cuban.</string>
+    <string name="whine">Free sucks, I wish I could afford the non-free version.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
